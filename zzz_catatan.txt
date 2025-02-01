@@ -25,7 +25,7 @@ D:\Programming\dicoding\Machine Learning\mlops\dicoding-mlops-sub-2\latihan-dico
 # Conda jalankan env
  
 # 1. Install Python 3.9.21
-# uv python install 3.9.21
+# uv python install 3.9.21 
 # 2. Buat Virtual Env
 # uv venv --python 3.9.21
 # 3. Aktifin env
@@ -35,8 +35,8 @@ D:\Programming\dicoding\Machine Learning\mlops\dicoding-mlops-sub-2\latihan-dico
 # 5. Install pip & turunin setuptools
 # uv pip install pip setuptools==70
 
-# conda create -n stress3 python=3.9.21
-# conda activate stress3
+# conda create -n stress-git python=3.9.21
+# conda activate stress-git
 # uv pip install jupyter scikit-learn tensorflow tfx==1.11 flask joblib
 # # # # pip install -r requirements.txt
 
